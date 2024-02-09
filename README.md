@@ -20,5 +20,4 @@ This is an email verifier tool implemented in Go. It verifies the validity of a 
 - [Cloudflare - Understanding DNS MX Records](https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/)
 - [Cloudflare - Understanding DNS SPF Records](https://www.cloudflare.com/learning/dns/dns-records/dns-spf-record/)
 - [Cloudflare - Understanding DNS DMARC Records](https://www.cloudflare.com/learning/dns/dns-records/dns-dmarc-record/)
-- [Youtube](https://www.youtube.com/watch?v=9E4UEsWpYvM&list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9&index=7&t=143s)
 
